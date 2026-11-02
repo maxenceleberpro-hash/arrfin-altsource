@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.4.0",
+          "buildVersion": "6",
+          "date": "2026-11-02",
+          "localizedDescription": "Icône de l'app, widget Continuer (petit, moyen, grand, écran verrouillé) avec lecture directe au tap.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/arrfin-altsource/releases/download/v0.4.0/Arrfin.ipa",
+          "size": 51934461,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.3.0",
           "buildVersion": "5",
           "date": "2026-11-02",
