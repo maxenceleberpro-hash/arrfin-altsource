@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.3.0",
+          "buildVersion": "5",
+          "date": "2026-11-02",
+          "localizedDescription": "Lecteur Apple natif avec Picture-in-Picture (VLC en secours), sous-titres natifs, choix audio/sous-titres sur la fiche, fonds colorés d'après les couvertures sur l'accueil et les fiches.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/arrfin-altsource/releases/download/v0.3.0/Arrfin.ipa",
+          "size": 50513403,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.2.0",
           "buildVersion": "4",
           "date": "2026-11-02",
