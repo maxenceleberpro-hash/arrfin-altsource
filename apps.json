@@ -1,0 +1,32 @@
+{
+  "name": "Arrfin",
+  "identifier": "com.maxence.arrfin.source",
+  "subtitle": "Lecteur Jellyfin en Liquid Glass",
+  "description": "Source personnelle pour Arrfin, client Jellyfin pour iPhone et iPad.",
+  "iconURL": "https://raw.githubusercontent.com/maxenceleberpro-hash/arrfin-altsource/main/icon.png",
+  "tintColor": "7C5CFF",
+  "apps": [
+    {
+      "name": "Arrfin",
+      "bundleIdentifier": "com.maxence.arrfin.ios",
+      "developerName": "Maxence Le Ber",
+      "subtitle": "Client Jellyfin",
+      "localizedDescription": "Lecteur vidéo pour ton serveur Jellyfin : bibliothèques, reprise de lecture, lecteur VLC (MKV, DTS, sous-titres ASS) et interface Liquid Glass.",
+      "iconURL": "https://raw.githubusercontent.com/maxenceleberpro-hash/arrfin-altsource/main/icon.png",
+      "tintColor": "7C5CFF",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "date": "2026-11-02",
+          "localizedDescription": "Première version de test.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/arrfin-altsource/releases/download/v0.1.0/Arrfin.ipa",
+          "size": 50350294,
+          "minOSVersion": "26.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
