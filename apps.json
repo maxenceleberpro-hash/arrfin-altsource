@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.2.0",
+          "buildVersion": "4",
+          "date": "2026-11-02",
+          "localizedDescription": "Accueil immersif, bibliothèque Films/Séries en 3 colonnes, fiche corrigée, actions (vu, favori, actualiser, supprimer) via appui long ou menu …, réglages dans le profil, recherche corrigée.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/arrfin-altsource/releases/download/v0.2.0/Arrfin.ipa",
+          "size": 50449372,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.2",
           "buildVersion": "3",
           "date": "2026-11-02",
