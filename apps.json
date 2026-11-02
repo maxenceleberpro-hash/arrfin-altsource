@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.1.2",
+          "buildVersion": "3",
+          "date": "2026-11-02",
+          "localizedDescription": "Corrige l'ouverture des fiches depuis l'accueil, la mise en page de la fiche, la barre de recherche et l'icône lecture. Affiche un diagnostic si la lecture ne démarre pas.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/arrfin-altsource/releases/download/v0.1.2/Arrfin.ipa",
+          "size": 50356763,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.1",
           "buildVersion": "2",
           "date": "2026-11-02",
