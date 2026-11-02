@@ -18,6 +18,15 @@
       "screenshotURLs": [],
       "versions": [
         {
+          "version": "0.1.1",
+          "buildVersion": "2",
+          "date": "2026-11-02",
+          "localizedDescription": "Corrige la connexion en HTTP à un serveur local (ATS) et ajoute la permission réseau local.",
+          "downloadURL": "https://github.com/maxenceleberpro-hash/arrfin-altsource/releases/download/v0.1.1/Arrfin.ipa",
+          "size": 50350499,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "0.1.0",
           "buildVersion": "1",
           "date": "2026-11-02",
