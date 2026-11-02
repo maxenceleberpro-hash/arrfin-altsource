@@ -1,6 +1,7 @@
 {
   "name": "Arrfin",
   "identifier": "com.maxence.arrfin.source",
+  "sourceURL": "https://raw.githubusercontent.com/maxenceleberpro-hash/arrfin-altsource/main/apps.json",
   "subtitle": "Lecteur Jellyfin en Liquid Glass",
   "description": "Source personnelle pour Arrfin, client Jellyfin pour iPhone et iPad.",
   "iconURL": "https://raw.githubusercontent.com/maxenceleberpro-hash/arrfin-altsource/main/icon.png",
